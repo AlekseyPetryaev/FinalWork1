@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\FinWork\TestWork\bin\Debug\net6.0\TestWork.exe
+C:\Users\petra\Desktop\FinWork\TestWork\bin\Debug\net6.0\TestWork.deps.json
+C:\Users\petra\Desktop\FinWork\TestWork\bin\Debug\net6.0\TestWork.runtimeconfig.json
+C:\Users\petra\Desktop\FinWork\TestWork\bin\Debug\net6.0\TestWork.dll
+C:\Users\petra\Desktop\FinWork\TestWork\bin\Debug\net6.0\TestWork.pdb
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.AssemblyInfo.cs
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.dll
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\refint\TestWork.dll
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.pdb
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\TestWork.genruntimeconfig.cache
+C:\Users\petra\Desktop\FinWork\TestWork\obj\Debug\net6.0\ref\TestWork.dll
