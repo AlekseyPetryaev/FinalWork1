@@ -7,3 +7,5 @@
 * Возвращаем новый заполненный в соответствие заданному условию массив как результат.
   
 ![BlokDiagram](C:\Users\petra\Desktop\FinWork\BlokDiagram.jpg)
+
+![SavingHistory](C:\Users\petra\Desktop\FinWork\SavingHistory.jpg)
