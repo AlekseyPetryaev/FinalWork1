@@ -6,4 +6,4 @@
 * Пока не достигнем конца исходного массива будем повторять пункты 2 и 3. 
 * Возвращаем новый заполненный в соответствие заданному условию массив как результат.
   
-![BlokDiagram](BlokDiagram.jpg)
+![BlokDiagram](C:\Users\petra\Desktop\FinWork\BlokDiagram.jpg)
