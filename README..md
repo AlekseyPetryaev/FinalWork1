@@ -7,7 +7,3 @@
 * Возвращаем новый заполненный в соответствие заданному условию массив как результат.
   
 ![BlokDiagram](BlokDiagram.jpg)
-
-![SavingsHistory](SavingsHistory.jpg)
-
-.
